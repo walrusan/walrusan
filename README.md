@@ -1,3 +1,3 @@
 hello! my name is walru :D
 
-hallo! mein name ist walru :D
+こんにちは！私の名前は walru :D
