@@ -1,3 +1,1 @@
-hello! my name is walru :D
-
-こんにちは！私の名前は walru :D
+trying to make a typing test :0
